@@ -4,7 +4,7 @@
 - 📫 <- Veja esta linda caixa de correio
 - 😄 Pronomes Pessoais: eu, tu, ele/ela, nós, vós, eles/elas
 - 🥁 Fato legal: o emoji no lado esquerdo dessa linha é um tambor 
-
+- 🎵 Aprendendo a tocar bateria (Sim, serei um baterista)
 <!---
 AntonioTSouza/AntonioTSouza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
